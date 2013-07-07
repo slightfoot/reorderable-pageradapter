@@ -1,4 +1,4 @@
-package com.demondevelopers.example.rerderablepageradapter;
+package com.demondevelopers.example.reorderablepageradapter;
 
 import java.util.HashMap;
 

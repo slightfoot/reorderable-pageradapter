@@ -1,4 +1,4 @@
-package com.demondevelopers.example.rerderablepageradapter;
+package com.demondevelopers.example.reorderablepageradapter;
 
 import android.support.v4.app.FragmentManager;
 import android.util.Log;
